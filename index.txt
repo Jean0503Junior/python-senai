@@ -1,0 +1,5 @@
+Jean Junior 
+
+COMANDOS GIT
+    git status: mostra o status da brach atual
+     
