@@ -1,8 +1,0 @@
-Jean Junior 
-
-COMANDOS GIT
-    git status: mostra o status da brach atual.
-    git add . : inclui as alterações à branch atual.
-    git commit -m: adiciona um comentario às alterações feitas.
-    git push: sobe as alterações do arquivo para o github.
-    git pull: traz a versão mais nova do arquivo junto com as alterações feitas nele.

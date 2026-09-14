@@ -1,3 +1,0 @@
-python-senai
-
-Jean Junior
