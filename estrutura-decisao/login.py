@@ -1,0 +1,11 @@
+# Solicita Login do usuário
+login = input("Digite seu login: ")
+
+# Solicita a senha do usuário
+senha = input("Digite sua senha: ")
+
+# Verifica se o login e a senha estão corretos
+if login == "admin" and senha == "1234":
+    print("Seja bem vindo!!")
+else:
+    print("Dados incorretos")
