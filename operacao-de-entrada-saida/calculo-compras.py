@@ -4,7 +4,7 @@
 
 # Entrada de dados
 produto = input("Insira o nome do produto: ")
-preco_produto = float(input("Insira o valor do poduto (R$): "))
+preco_produto = float(input("Insira o valor do poduto (R$): 0000"))
 quantidade_produto = int(input("Insira a quantidade de produtos a ser comprada: "))
 
 # Processamento computacional
